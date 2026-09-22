@@ -1,0 +1,16 @@
+list: user.system_paths
+hostname: yzwranglero
+-
+user: /home/yzjm
+desktop: /home/yzjm/Desktop
+desk: /home/yzjm/Desktop
+documents: /home/yzjm/Documents
+docks: /home/yzjm/Documents
+downloads: /home/yzjm/Downloads
+music: /home/yzjm/Music
+pictures: /home/yzjm/Pictures
+videos: /home/yzjm/Videos
+talon home: /home/yzjm/.talon
+talon recordings: /home/yzjm/.talon/recordings
+talon user: /home/yzjm/.talon/user
+home: /home/yzjm
