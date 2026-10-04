@@ -1,0 +1,67 @@
+list: user.vocabulary
+os: linux
+-
+
+# This overrides Community's vocabulary on Linux, so retain its existing entries.
+N map: nmap
+under documented: under-documented
+nmap
+admin
+Cisco
+Citrix
+VPN
+DNS
+Minecraft
+
+# Tools and desktop components
+hyper land: Hyprland
+way land: Wayland
+ex way land: XWayland
+omarchy: Omarchy
+open code: OpenCode
+toby: Tobii
+comfy you eye: ComfyUI
+pipe wire: PipeWire
+quick shell: Quickshell
+neo vim: Neovim
+synology: Synology
+synology drive: Synology Drive
+obsidian: Obsidian
+espanso: Espanso
+bamboo studio: Bambu Studio
+open scad: OpenSCAD
+grid finity: Gridfinity
+open grid: openGrid
+ink scape: Inkscape
+parakeet: Parakeet
+
+# Business names and project tools
+fletchers coombe: Fletchers Combe
+dispatchula: Dispatchula
+super control: SuperControl
+play wright: Playwright
+live link face: Live Link Face
+ar kit: ARKit
+yo zees: Yozies
+rucks bury farm: Ruxbury Farm
+rucks bury brands: Ruxbury Brands
+company of animals: Company of Animals
+fox coombe bake house: Foxcombe Bakehouse
+A S M R puppy: ASMR Puppy
+pet dream house: Pet Dreamhouse
+premier cottages: Premier Cottages
+
+# Web development and AI
+astro wind: AstroWind
+shopify: Shopify
+cloud flare: Cloudflare
+tamper monkey: Tampermonkey
+control net: ControlNet
+low rah: LoRA
+V A E: VAE
+
+# Personal project identifiers
+jay em talon: jmtalon
+jay em talon lite: jmtalonlite
+jay em face gestures: jmfacegestures
+halp project: HALP

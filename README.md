@@ -1,5 +1,16 @@
 # jamesmugford-talon
 
+## Personal vocabulary
+
+`vocabulary.talon-list` defines spoken forms for frequently used tools, business
+names, and personal projects. For example, `hyper land` produces `Hyprland`,
+`fletchers coombe` produces `Fletchers Combe`, and `jay em talon lite` produces
+`jmtalonlite`.
+
+The Linux context overrides Community's default `user.vocabulary` list and
+includes its existing entries. Add future personal entries to this file so they
+are included in the active vocabulary.
+
 ## Tab commands
 
 `tabs.talon` provides global fallback commands. More-specific Community or
