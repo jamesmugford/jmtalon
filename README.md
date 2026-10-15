@@ -11,6 +11,19 @@ The Linux context overrides Community's default `user.vocabulary` list and
 includes its existing entries. Add future personal entries to this file so they
 are included in the active vocabulary.
 
+## Dental-click repeat
+
+The binding is currently disabled due to false positives. Uncomment the
+`noise(dental_click)` binding in `dental_click_repeat.talon` to enable it.
+
+Two dental clicks 100–350 ms apart repeat the last command once in command or
+mixed mode. Single clicks do nothing. Duplicate detections less than 100 ms
+apart are ignored, and successful pairs do not overlap. Mode changes clear
+the pending pair.
+
+Adjust `user.dental_click_repeat_min_ms` and
+`user.dental_click_repeat_max_ms` in a Talon `settings()` block to tune timing.
+
 ## Tab commands
 
 `tabs.talon` provides global fallback commands. More-specific Community or
